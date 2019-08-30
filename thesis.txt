@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Policing and new technologies: 
 
 The case of Toronto and Montreal and its suburbs.
+=======
+The R camp is fun 
+>>>>>>> 88b8bd2d99caf40d735a33e96d46b8b7cf5bcb44
